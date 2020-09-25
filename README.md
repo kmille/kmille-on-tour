@@ -2,74 +2,78 @@
 
 ### Outdoor
 
-- [x] Zelt
-- [x] Schlafsack
-- [x] Luftmatratze
-- [x] Klettersachen
-- [x] Handschuhe
-- [x] zweites paar Schuhe
-- [x] Gaffa
+- [ ] Zelt
+- [ ] Schlafsack
+- [ ] Luftmatratze
+- [ ] Klettersachen
+- [ ] Handschuhe
+- [ ] zweites paar Schuhe
+- [ ] Gaffa
+- [ ] Sitzkissen
 
 ### Elektronik
 
-- [x] Stirnlampe + Ersatzbatterien
-- [x] Ladekabel fürs Handy
-- [x] Kopfhörer
+- [ ] Stirnlampe + Ersatzbatterien
+- [ ] Ladekabel fürs Handy
+- [ ] Kopfhörer
 
 ### Hygiene
 
-- [x] Klopapier
+- [ ] Klopapier
+- [ ] Hygienebeutel
 
-- [x] Hygienebeutel
+    - [ ] Zahnpasta
+    - [ ] Zahnbürste
+    - [ ] Schlafmaske
+    - [ ] Oropax
+    - [ ] Nagel-Knipser
+    - [ ] Medizin (IBU, Wundsable + Heuschnupfen-Foo)
 
-    - [x] Zahnpasta
-    - [x] Zahnbürste
-    - [x] Schlafmaske
-    - [x] Oropax
-    - [x] Nagel-Knipser
-    - [x] Medizin (IBU + Heuschnupfen)
-
-    - [x] Labello
-    - [x] Pflaster
-
+    - [ ] Labello
+    - [ ] Pflaster
 - [ ] Sonnencreme?
+- [ ] Wärmflasche?
 
 ### Handgepäck
 
-- [x] Geldbeutel
+- [ ] Geldbeutel
 - [ ] Handy (vorher aufladen!)
-- [x] Schlüssel
+- [ ] Schlüssel
 - [ ] Sonnenbrille
-- [x] Corona-Masken
-- [x] Kulli
-- [x] Edding
-- [x] Block
+- [ ] Corona-Masken
+- [ ] Kulli
+- [ ] Edding
+- [ ] Block
 - [ ] Kartenspiele
+- [ ] Feuerzeug
+- [ ] Schirm?
 
 ### Kleidung (erst überlegen was du auf der Fahrt anziehst!)
 
-- [x] Socken
-- [x] Buchsen
-- [x] Longsleeve
-- [x] Shorts
-- [x] Leggins/Funktionsunterwäsche
-- [x] lange Hose(n)
-- [x] T-Shirts
-- [x] lange(s) Oberteil(e)
-- [x] Jacke
+- [ ] Socken
+- [ ] Buchsen
+- [ ] Longsleeve
+- [ ] Shorts
+- [ ] Leggins/Funktionsunterwäsche
+- [ ] lange Hose(n)
+- [ ] T-Shirts
+- [ ] lange(s) Oberteil(e)
+- [ ] Jacke
 
 ### Verpflegung
 
-- [x] Wasser (grüne und gelbe Flasche)
+- [ ] Wasser (grüne und gelbe Flasche)
 - [ ] Proviant/Fresspaket (Obst, belegte Brötchen)
-- [x] Müsli
-- [x] Geschirr-Set
-- [x] scharfes Messer
-- [x] Teller
-- [x] Tasse
-- [x] Geschirrtuch
-- [x] Jimmy Joy: Pullver (100 Gramm sind 400 kcal)
-- [x] Jimmiy Joy: Riegel (1 Riegel a 100 Gramm sind 400 kcal)
-- [x] Shaker
+- [ ] Müsli
+- [ ] Geschirr-Set
+- [ ] scharfes Messer
+- [ ] Teller
+- [ ] Tasse
+- [ ] Geschirrtuch
+- [ ] Jimmy Joy: Pullver (100 Gramm sind 400 kcal)
+- [ ] Jimmiy Joy: Riegel (1 Riegel a 100 Gramm sind 400 kcal)
+- [ ] Shaker
 - [ ] Thermoskanne?
+
+
 
