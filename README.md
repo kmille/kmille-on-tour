@@ -21,14 +21,12 @@
 
 - [ ] Klopapier
 - [ ] Hygienebeutel
-
     - [ ] Zahnpasta
     - [ ] Zahnbürste
     - [ ] Schlafmaske
     - [ ] Oropax
     - [ ] Nagel-Knipser
     - [ ] Medizin (IBU, Wundsable + Heuschnupfen-Foo)
-
     - [ ] Labello
     - [ ] Pflaster
 - [ ] Sonnencreme?
