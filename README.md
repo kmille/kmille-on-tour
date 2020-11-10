@@ -40,6 +40,7 @@
 - [ ] Handy (vorher aufladen!)
 - [ ] Schlüssel
 - [ ] Sonnenbrille
+- [ ] Buff
 - [ ] Corona-Masken
 - [ ] Kulli
 - [ ] Edding
@@ -59,12 +60,13 @@
 - [ ] T-Shirts
 - [ ] lange(s) Oberteil(e)
 - [ ] Jacke
+- [ ] Regenhose
 
 ### Verpflegung
 
 - [ ] Wasser (grüne und gelbe Flasche)
 - [ ] Proviant/Fresspaket (Obst, belegte Brötchen)
-- [ ] Müsli
+- [ ] Müsli + Milch
 - [ ] Geschirr-Set
 - [ ] scharfes Messer
 - [ ] Teller
