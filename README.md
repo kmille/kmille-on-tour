@@ -6,7 +6,7 @@
 - [ ] Schlafsack
 - [ ] Luftmatratze
 - [ ] Klettersachen
-- [ ] Handschuhe
+- [ ] Handschuhe für grobes
 - [ ] zweites paar Schuhe
 - [ ] Gaffa
 - [ ] Sitzkissen
@@ -38,7 +38,6 @@
 - [ ] Handy (vorher aufladen!)
 - [ ] Schlüssel
 - [ ] Sonnenbrille
-- [ ] Buff
 - [ ] Corona-Masken
 - [ ] Kulli
 - [ ] Edding
@@ -57,8 +56,11 @@
 - [ ] lange Hose(n)
 - [ ] T-Shirts
 - [ ] lange(s) Oberteil(e)
-- [ ] Jacke
+- [ ] Jacke + Innenjacke
 - [ ] Regenhose
+- [ ] Buff
+- [ ] Handschuhe
+- [ ] Mütze
 
 ### Verpflegung
 
