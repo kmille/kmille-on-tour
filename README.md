@@ -6,16 +6,25 @@
 - [ ] Schlafsack
 - [ ] Luftmatratze
 - [ ] Klettersachen
+- [ ] Schnur/Seil
 - [ ] Handschuhe für grobes
 - [ ] zweites paar Schuhe
 - [ ] Gaffa
 - [ ] Sitzkissen
+- [ ] Gitarre
+- [ ] Multifunktionstool
+- [ ] Spanngurte
+- [ ] Fahrradlicht
 
 ### Elektronik
 
-- [ ] Stirnlampe + Ersatzbatterien
-- [ ] Ladekabel fürs Handy
-- [ ] Kopfhörer
+- [ ] Powerbank
+- [ ] Stirnlampe
+- [ ] Ersatzbatterien
+- [ ] Multi-USB-Adapter
+- [ ] USB-C Ladekabel fürs Handy
+- [ ] Kopfhörer (Bluetooth, USB-Klinke-Adapter?)
+- [ ] MP3-Player
 
 ### Hygiene
 
@@ -29,22 +38,24 @@
     - [ ] Medizin (IBU, Wundsable + Heuschnupfen-Foo)
     - [ ] Labello
     - [ ] Pflaster
-- [ ] Sonnencreme?
-- [ ] Wärmflasche?
+- [ ] Sonnencreme
+- [ ] Handcreme
+- [ ] Wärmflasche
+- [ ] Handtuch
 
 ### Handgepäck
 
-- [ ] Geldbeutel
+- [ ] Geldbeutel (Ausweis?)
 - [ ] Handy (vorher aufladen!)
 - [ ] Schlüssel
 - [ ] Sonnenbrille
 - [ ] Corona-Masken
 - [ ] Kulli
 - [ ] Edding
-- [ ] Block
+- [ ] Block/Papier
 - [ ] Kartenspiele
 - [ ] Feuerzeug
-- [ ] Schirm?
+- [ ] Schirm
 
 ### Kleidung (erst überlegen was du auf der Fahrt anziehst!)
 
@@ -52,11 +63,12 @@
 - [ ] Buchsen
 - [ ] Longsleeve
 - [ ] Shorts
-- [ ] Leggins/Funktionsunterwäsche
+- [ ] Leggins
 - [ ] lange Hose(n)
 - [ ] T-Shirts
 - [ ] lange(s) Oberteil(e)
-- [ ] Jacke + Innenjacke
+- [ ] Regenjacke
+- [ ] Innenjacke (gelbe)
 - [ ] Regenhose
 - [ ] Buff
 - [ ] Handschuhe
@@ -64,18 +76,18 @@
 
 ### Verpflegung
 
-- [ ] Wasser (grüne und gelbe Flasche)
-- [ ] Proviant/Fresspaket (Obst, belegte Brötchen)
-- [ ] Müsli + Milch
-- [ ] Geschirr-Set
-- [ ] scharfes Messer
+- [ ] Camping-Kocher
+- [ ] Gas-Kartusche
+- [ ] Besteck
+- [ ] Opinel Messer
 - [ ] Teller
 - [ ] Tasse
 - [ ] Geschirrtuch
+- [ ] Thermoskanne
+- [ ] Wasser (grüne und gelbe Flasche)
+- [ ] Proviant/Fresspaket (Obst, belegte Brötchen)
+- [ ] Müsli + Milch
 - [ ] Jimmy Joy: Pullver (100 Gramm sind 400 kcal)
 - [ ] Jimmiy Joy: Riegel (1 Riegel a 100 Gramm sind 400 kcal)
 - [ ] Shaker
-- [ ] Thermoskanne?
-
-
 
