@@ -5,13 +5,12 @@
 - [ ] Zelt
 - [ ] Schlafsack
 - [ ] Luftmatratze
-- [ ] Klettersachen
+- [ ] Klettersachen (Handschuhe nicht vergessen!)
 - [ ] Schnur/Seil
 - [ ] Handschuhe für grobes
-- [ ] zweites paar Schuhe
 - [ ] Gaffa
 - [ ] Sitzkissen
-- [ ] Gitarre
+- [ ] Gitarre (Stimmgerät, Pleks, Capo, Liederbuch)
 - [ ] Multifunktionstool
 - [ ] Spanngurte
 - [ ] Fahrradlicht
@@ -23,8 +22,15 @@
 - [ ] Ersatzbatterien
 - [ ] Multi-USB-Adapter
 - [ ] USB-C Ladekabel fürs Handy
-- [ ] Kopfhörer (Bluetooth, USB-Klinke-Adapter?)
+- [ ] Bluetooth-In-Ears
+- [ ] Kabel-In-Ears
+- [ ] Kopfhörer/Headset
+- [ ] USB-Klinke-Adapter
 - [ ] MP3-Player
+- [ ] Laptop
+- [ ] Ladekabel fürn Laptop
+- [ ] Tablet
+- [ ] Bluetooth-Box?
 
 ### Hygiene
 
@@ -35,17 +41,22 @@
     - [ ] Schlafmaske
     - [ ] Oropax
     - [ ] Nagel-Knipser
-    - [ ] Medizin (IBU, Wundsable + Heuschnupfen-Foo)
+    - [ ] Medizin (IBU, Wundsable + Heuschnupfen-Foo, B12)
     - [ ] Labello
     - [ ] Pflaster
+    - [ ] Rasierer
 - [ ] Sonnencreme
 - [ ] Handcreme
 - [ ] Wärmflasche
 - [ ] Handtuch
+- [ ] ein bisschen Glitzer und Kleber
+- [ ] Kurzhaarschneider
+- [ ] Schampoo & Duschgel
+- [ ] Corona-Tests
 
 ### Handgepäck
 
-- [ ] Geldbeutel (Ausweis?)
+- [ ] Geldbeutel (Bargeld, Karten, Ausweis)
 - [ ] Handy (vorher aufladen!)
 - [ ] Schlüssel
 - [ ] Sonnenbrille
@@ -53,26 +64,33 @@
 - [ ] Kulli
 - [ ] Edding
 - [ ] Block/Papier
+- [ ] Füller/Tombow
 - [ ] Kartenspiele
 - [ ] Feuerzeug
-- [ ] Schirm
+- [ ] (Sonnen-)Schirm
+- [ ] was zum lesen
 
 ### Kleidung (erst überlegen was du auf der Fahrt anziehst!)
 
 - [ ] Socken
-- [ ] Buchsen
-- [ ] Longsleeve
-- [ ] Shorts
+- [ ] Buchsen                          
+- [ ] Longsleeve(s)
 - [ ] Leggins
+- [ ] Shorts
 - [ ] lange Hose(n)
+- [ ] Jogginghose
+- [ ] Gürtel
 - [ ] T-Shirts
 - [ ] lange(s) Oberteil(e)
-- [ ] Regenjacke
-- [ ] Innenjacke (gelbe)
 - [ ] Regenhose
+- [ ] Winterjacke/Regenjacke
 - [ ] Buff
 - [ ] Handschuhe
 - [ ] Mütze
+- [ ] Badehose
+- [ ] Schlafanzug
+- [ ] Hausschuhe
+- [ ] Kopfbedeckung
 
 ### Verpflegung
 
@@ -85,9 +103,12 @@
 - [ ] Geschirrtuch
 - [ ] Thermoskanne
 - [ ] Wasser (grüne und gelbe Flasche)
-- [ ] Proviant/Fresspaket (Obst, belegte Brötchen)
+- [ ] Proviant/Fresspaket (Obst, Brot + Aufstrich)
 - [ ] Müsli + Milch
 - [ ] Jimmy Joy: Pullver (100 Gramm sind 400 kcal)
 - [ ] Jimmiy Joy: Riegel (1 Riegel a 100 Gramm sind 400 kcal)
 - [ ] Shaker
+- [ ] Küfa? Wat scharfes!
+- [ ] Kühlschrank ist leer geräumt?
+- [ ] restlichen Obst eingepackt?
 
