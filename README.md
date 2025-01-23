@@ -13,35 +13,35 @@
 - [ ] Gitarre (Stimmgerät, Pleks, Capo, Liederbuch)
 - [ ] Multifunktionstool
 - [ ] Spanngurte
-- [ ] Fahrradlicht
 
 ### Elektronik
 
 - [ ] Powerbank
 - [ ] Stirnlampe
-- [ ] Ersatzbatterien
+  - [ ] Ersatzbatterien
+
 - [ ] Multi-USB-Adapter
 - [ ] USB-C Ladekabel fürs Handy
-- [ ] Bluetooth-In-Ears
-- [ ] Kabel-In-Ears
-- [ ] Kopfhörer/Headset
+- [ ] Bluetooth Kopfhörer
+- [ ] Kopfhörer
+- [ ] Headset
 - [ ] USB-Klinke-Adapter
 - [ ] MP3-Player
 - [ ] Laptop
-- [ ] Ladekabel fürn Laptop
+  - [ ] Ladekabel
+
 - [ ] Tablet
-- [ ] Bluetooth-Box?
+- [ ] Bluetooth-Box + Micro-USB Kabel
 
 ### Hygiene
 
 - [ ] Klopapier
-- [ ] Hygienebeutel
+- [ ] Kulturbeutel
     - [ ] Zahnpasta
     - [ ] Zahnbürste
-    - [ ] Schlafmaske
     - [ ] Oropax
     - [ ] Nagel-Knipser
-    - [ ] Medizin (IBU, Wundsable + Heuschnupfen-Foo, B12)
+    - [ ] Medizin (IBU, Wundsable + Heuschnupfen-Foo, B12, D3)
     - [ ] Labello
     - [ ] Pflaster
     - [ ] Rasierer
@@ -52,19 +52,19 @@
 - [ ] ein bisschen Glitzer und Kleber
 - [ ] Kurzhaarschneider
 - [ ] Schampoo & Duschgel
-- [ ] Corona-Tests
+- [ ] Bite away
+- [ ] Anti-Mücken-Foo
 
 ### Handgepäck
 
-- [ ] Geldbeutel (Bargeld, Karten, Ausweis)
+- [ ] Geldbeutel (Bargeld, Karten, Ausweis?, Blutspende-Foo?)
 - [ ] Handy (vorher aufladen!)
 - [ ] Schlüssel
 - [ ] Sonnenbrille
-- [ ] Corona-Masken
 - [ ] Kulli
 - [ ] Edding
 - [ ] Block/Papier
-- [ ] Füller/Tombow
+- [ ] Füller/Tombow (vorher Tinte checken)
 - [ ] Kartenspiele
 - [ ] Feuerzeug
 - [ ] (Sonnen-)Schirm
@@ -72,43 +72,44 @@
 
 ### Kleidung (erst überlegen was du auf der Fahrt anziehst!)
 
+- [ ] Buchsen
 - [ ] Socken
-- [ ] Buchsen                          
-- [ ] Longsleeve(s)
-- [ ] Leggins
+- [ ] Longsleeve
+- [ ] Leggings
 - [ ] Shorts
 - [ ] lange Hose(n)
-- [ ] Jogginghose
 - [ ] Gürtel
+- [ ] Jogginghose
 - [ ] T-Shirts
 - [ ] lange(s) Oberteil(e)
+  - [ ] Weihnachts-Hoody
+  - [ ] Vogel
+  - [ ] FTL-Hoody
+  - [ ] usdblack
 - [ ] Regenhose
-- [ ] Winterjacke/Regenjacke
+- [ ] Regenjacke
+- [ ] Winterjacke
+- [ ] Sportsachen
+  - [ ] Lauf-Schuhe
+  - [ ] blaues Oberteil
+  - [ ] Longsleeve
+  - [ ] Socken
+  - [ ] Short
+  - [ ] Leggings
 - [ ] Buff
 - [ ] Handschuhe
 - [ ] Mütze
 - [ ] Badehose
 - [ ] Schlafanzug
 - [ ] Hausschuhe
-- [ ] Kopfbedeckung
+- [ ] Kopfbedeckung/Hut
 
 ### Verpflegung
 
-- [ ] Camping-Kocher
-- [ ] Gas-Kartusche
-- [ ] Besteck
-- [ ] Opinel Messer
-- [ ] Teller
-- [ ] Tasse
-- [ ] Geschirrtuch
-- [ ] Thermoskanne
 - [ ] Wasser (grüne und gelbe Flasche)
-- [ ] Proviant/Fresspaket (Obst, Brot + Aufstrich)
-- [ ] Müsli + Milch
-- [ ] Jimmy Joy: Pullver (100 Gramm sind 400 kcal)
-- [ ] Jimmiy Joy: Riegel (1 Riegel a 100 Gramm sind 400 kcal)
-- [ ] Shaker
-- [ ] Küfa? Wat scharfes!
+- [ ] Proviant/Fresspaket
+  - [ ] Besteck/Löffel
+  - [ ] Geschirrtuch
+- [ ] Opinel Messer
 - [ ] Kühlschrank ist leer geräumt?
-- [ ] restlichen Obst eingepackt?
-
+- [ ] Obst eingepackt
